@@ -83,6 +83,6 @@ def mostoccuring(numbers):
     print(numbers)  
 number=[2,1,4,8,7,4,5,4,4,2]
 
-mostoccuring(number)
+mostoccuring(numbers)
 
 
