@@ -1,2 +1,3 @@
-# sentence count 
-function to find number of sentences in a string
+# python task
+word_count
+sentence_count
