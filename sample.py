@@ -1,9 +1,9 @@
-# import string
+import string
 
 
-# def wordcount(string):
-#     return len(string.split(' '))
-# print(wordcount("i am programer"))
+def wordcount(string):
+    return len(string.split(' '))
+print(wordcount("i am programer"))
 
 def sentence_count(string):
     dot=string.count(".")
